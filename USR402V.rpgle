@@ -41,6 +41,8 @@
            ENDIF ;
 
            print ('プログラム終了') ;
+           print ('プログラム終了：追加') ;
+           
            *INLR = *ON    ;
            RETURN        ;
 
